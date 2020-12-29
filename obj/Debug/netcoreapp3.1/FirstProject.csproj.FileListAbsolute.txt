@@ -36,4 +36,6 @@
 /home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.pdb
 /home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.genruntimeconfig.cache
 /home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.csproj.CopyComplete
-/home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyView.cshtml.g.cs
+/home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/RsvpForm.cshtml.g.cs
+/home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Thanks.cshtml.g.cs
+/home/kiandokht/firstApp/FirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/ListResponses.cshtml.g.cs

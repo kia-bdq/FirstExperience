@@ -14392,6 +14392,16 @@
   "RootNamespace": "FirstProject",
   "Documents": [
     {
+      "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Home/Thanks.cshtml",
+      "TargetPath": "Views\\Home\\Thanks.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Home/ListResponses.cshtml",
+      "TargetPath": "Views\\Home\\ListResponses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14417,8 +14427,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Home/MyView.cshtml",
-      "TargetPath": "Views\\Home\\MyView.cshtml",
+      "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Home/RsvpForm.cshtml",
+      "TargetPath": "Views\\Home\\RsvpForm.cshtml",
       "FileKind": "mvc"
     },
     {
