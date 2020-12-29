@@ -14417,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/Home/MyView.cshtml",
+      "TargetPath": "Views\\Home\\MyView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/kiandokht/firstApp/FirstProject/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
